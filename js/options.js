@@ -3,7 +3,7 @@ import f from './fonts';
 
 const options = [
   {
-    word: 'ENDLESS',
+    word: 'Black Lives Matter',
     color: '#ffffff',
     fill: '#000000',
     geometry: new THREE.TorusKnotGeometry(9, 3, 768, 3, 4, 3),
